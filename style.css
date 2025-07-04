@@ -127,6 +127,7 @@ body {
   justify-content: center;
   align-items: center;
   user-select: none;
+  -webkit-user-select: none; 
   font-weight: 600;
   background-size: 75%;
   background-repeat: no-repeat;
